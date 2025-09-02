@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Contact
 
 **Abhijit Kumar** - abhijitkumar10.5@gmail.com<br>
-Project Link: https://github.com/Abhijit105/codecademy--dasmoto-s-arts-and-crafts
+Project Link: https://abhijit105.github.io/codecademy--dasmoto-s-arts-and-crafts/
 
 ## Acknowledgements
 
