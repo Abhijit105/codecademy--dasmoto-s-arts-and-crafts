@@ -1,0 +1,51 @@
+.banner {
+  background: url(./pattern.jpeg);
+  margin: 50px 0;
+}
+
+.banner-heading {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section-heading {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.section-subheading {
+  font-weight: bold;
+  color: black;
+  font-family: Helvetica;
+}
+
+.section-description {
+  font-family: Helvetica;
+  color: black;
+}
+
+.section-description > span {
+  color: blue;
+  font-weight: bold;
+}
+
+.green {
+  background: mediumspringgreen;
+}
+
+.red {
+  background: lightcoral;
+}
+
+.blue {
+  background: skyblue;
+}
